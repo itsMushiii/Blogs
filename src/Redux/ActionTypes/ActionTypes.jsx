@@ -1,0 +1,4 @@
+export const GET_BLOGS = "GET_BLOGS";
+export const GET_BLOGS_FAIL = "GET_BLOGS_FAIL";
+export const SELECTED_BLOG = "SELECTED_BLOG";
+export const SELECTED_BLOG_FAIL = "SELECTED_BLOG_FAIL";
